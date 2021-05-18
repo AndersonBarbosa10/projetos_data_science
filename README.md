@@ -1,5 +1,5 @@
 < p align = "center">
-  < img src = "banner_ds.png">
+  < img src = "https://github.com/AndersonBarbosa10/projetos_data_science/blob/main/banner_ds.png">
  </ p>
  
 # Anderson R. Barbosa
