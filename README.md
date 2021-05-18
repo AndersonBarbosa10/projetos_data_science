@@ -1,13 +1,13 @@
-< p align = "center">
-  < img src = "https://github.com/AndersonBarbosa10/projetos_data_science/blob/main/banner_ds.png">
- </ p>
+<p align = "center">
+  <img src = "https://github.com/AndersonBarbosa10/projetos_data_science/blob/main/banner_ds.png">
+ </p>
  
 # Anderson R. Barbosa
-< sub> * Estudante de Data Science*</sub>
+<sub> Estudante de Data Science</sub>
 
-Com estudante de Data Science procuro desenvolver habilidades análiticas na resolução de problemas.
+Como estudante de Data Science procuro desenvolver habilidades análiticas na resolução de problemas.
 
-** Links: **
-*[LinkedIn] (https://www.linkedin.com/in/anderson-barbosa-47294233/)
+**Links:**
+* [LinkedIn] (https://www.linkedin.com/in/anderson-barbosa-47294233/)
 
 ## Projetos:
