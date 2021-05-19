@@ -5,7 +5,7 @@
 # Anderson R. Barbosa
 <sub> Estudante de Data Science</sub>
 
-Como estudante de Data Science procuro desenvolver habilidades análiticas na resolução de problemas.
+Como estudante de Data Science procuro desenvolver habilidades análiticas para resolução de problemas.
 
 **Links:**
 * [LinkedIn] (https://www.linkedin.com/in/anderson-barbosa-47294233/)
