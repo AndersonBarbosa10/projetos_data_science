@@ -12,4 +12,4 @@ Como estudante de Data Science procuro desenvolver habilidades análiticas para 
 
 ## Projetos:
 
-* **Análise dos Dados do Airbnb - Nova York:** https://github.com/AndersonBarbosa10/projetos_data_science/blob/main/Analisando_os_Dados_do_Airbnd_(Nova_York).ipynb
+* **Análise dos Dados do Airbnb - Nova York:** https://bit.ly/3fyMu3c
