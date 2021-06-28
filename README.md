@@ -13,3 +13,4 @@ Como estudante de Data Science procuro desenvolver habilidades análiticas para 
 ## Projetos:
 
 * **Análise dos Dados do Airbnb - Nova York:** https://bit.ly/3fyMu3c
+* **Análise dos Dados de Violência do Estado Rio de Janeiro:** https://bit.ly/3don33X
