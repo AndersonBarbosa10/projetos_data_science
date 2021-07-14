@@ -5,7 +5,7 @@
 # Anderson R. Barbosa
 <sub> Estudante de Data Science</sub>
 
-Sou estudante de Data Science da Escola **Sigmoidal** e procuro desenvolver técnicas e habilidades análiticas para resolução de problemas.
+Como Data Science procuro desenvolver técnicas e habilidades análiticas para resolução de problemas. Apresento alguns dos projetos realizados como estudante de Data Science da Escola **Sigmoidal**.
 
 **Links:**
 * [LinkedIn] (https://www.linkedin.com/in/anderson-barbosa-47294233/)
@@ -14,3 +14,4 @@ Sou estudante de Data Science da Escola **Sigmoidal** e procuro desenvolver téc
 
 * **Análise dos Dados do Airbnb - Nova York:** https://bit.ly/3fyMu3c
 * **Análise dos Dados de Violência do Estado Rio de Janeiro:** https://bit.ly/3don33X
+* **Análise do COVID-19 no Brasil:** https://bit.ly/3B0V30C
