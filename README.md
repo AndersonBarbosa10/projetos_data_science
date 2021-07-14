@@ -5,7 +5,7 @@
 # Anderson R. Barbosa
 <sub> Estudante de Data Science</sub>
 
-Como Data Science proucuro desenvolver técnicas e habilidades análiticas para resolução de problemas. Apresento alguns dos projetos realizados como estudante de Data Science da Escola **Sigmoidal**.
+Como Data Science procuro desenvolver técnicas e habilidades análiticas para resolução de problemas. Apresento alguns dos projetos realizados como estudante de Data Science da Escola **Sigmoidal**.
 
 **Links:**
 * [LinkedIn] (https://www.linkedin.com/in/anderson-barbosa-47294233/)
