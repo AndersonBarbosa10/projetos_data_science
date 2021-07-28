@@ -15,3 +15,4 @@ Como Data Science procuro desenvolver técnicas e habilidades análiticas para r
 * **Análise dos Dados do Airbnb - Nova York:** https://bit.ly/3fyMu3c
 * **Análise dos Dados de Violência do Estado Rio de Janeiro:** https://bit.ly/3don33X
 * **Análise do COVID-19 no Brasil:** https://bit.ly/3B0V30C
+*  **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/3iVuS3m
